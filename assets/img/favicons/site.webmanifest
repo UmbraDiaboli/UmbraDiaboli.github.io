@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chirpy",
-  "short_name": "Chirpy",
-  "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+  "name": "Sudo Shutdown",
+  "short_name": "Sudo Shutdown",
+  "description": "A blog about programming, automation and computer science.",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",
