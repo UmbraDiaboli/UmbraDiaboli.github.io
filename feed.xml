@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Sudo Shutdown</title>
-  <subtitle>A blog about programming, automation and computer science.</subtitle>
-  <updated>2025-05-22T22:25:20+10:00</updated>
+  <subtitle>A saga about programming, automation and computer science.</subtitle>
+  <updated>2026-10-02T13:13:30+10:00</updated>
   <author>
     <name>Umbra Diaboli</name>
     <uri>http://localhost:4000/</uri>
@@ -13,10 +13,58 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <rights> © 2025 Umbra Diaboli </rights>
+  <rights> © 2026 Umbra Diaboli </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Beginnings</title>
+    <link href="http://localhost:4000/posts/Beginnings/" rel="alternate" type="text/html" title="Beginnings" />
+    <published>2026-09-30T00:00:00+10:00</published>
+  
+    <updated>2026-09-30T00:00:00+10:00</updated>
+  
+    <id>http://localhost:4000/posts/Beginnings/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Beginnings/" />
+    <author>
+      <name>Umbra Diaboli</name>
+    </author>
+
+  
+    
+    <category term="Chapter 1" />
+    
+  
+
+  <summary>He hit the enter key with a final triumphant stroke. It couldn’t have been that easy, they hadn’t patched their web application firewalls. There was a new exploit available. The api exposed an insecure stored procedure in the embedded sql database allowing full admin access to the hardware meant to keep all of their internal systems safe. He took a swig of vodka and racked another line of cocai...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Snap</title>
+    <link href="http://localhost:4000/posts/Snap/" rel="alternate" type="text/html" title="Snap" />
+    <published>2016-10-01T00:00:00+10:00</published>
+  
+    <updated>2016-10-01T00:00:00+10:00</updated>
+  
+    <id>http://localhost:4000/posts/Snap/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Snap/" />
+    <author>
+      <name>Umbra Diaboli</name>
+    </author>
+
+  
+    
+    <category term="Chapter 1" />
+    
+  
+
+  <summary>He awoke the next morning, head pounding and mouth dry, computer still on. Finn had fallen asleep on the couch again, his monitors blaring and preventing REM sleep. The coke probably did that more so than the light. He went and got a drink of water, the days meetings would starts in a few minutes and he need to be bright eyed and bushy tailed. He brushed the coke baggy into his desk drawer. As ...</summary>
+
+  </entry>
 
 </feed>
 
