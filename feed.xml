@@ -4,7 +4,7 @@
   <id>https://umbradiaboli.github.io/</id>
   <title>Sudo Shutdown</title>
   <subtitle>A saga about programming, automation and computer science.</subtitle>
-  <updated>2026-10-02T14:29:37+10:00</updated>
+  <updated>2026-10-02T14:57:54+10:00</updated>
   <author>
     <name>Umbra Diaboli</name>
     <uri>https://umbradiaboli.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Snap</title>
+    <link href="https://umbradiaboli.github.io/posts/Snap/" rel="alternate" type="text/html" title="Snap" />
+    <published>2026-10-01T00:00:00+10:00</published>
+  
+    <updated>2026-10-01T00:00:00+10:00</updated>
+  
+    <id>https://umbradiaboli.github.io/posts/Snap/</id>
+    <content type="text/html" src="https://umbradiaboli.github.io/posts/Snap/" />
+    <author>
+      <name>Umbra Diaboli</name>
+    </author>
+
+  
+    
+    <category term="Chapter 1" />
+    
+  
+
+  <summary>He awoke the next morning, head pounding and mouth dry, computer still on. Finn had fallen asleep on the couch again, his monitors blaring and preventing REM sleep. The coke probably did that more so than the light. He went and got a drink of water, the days meetings would starts in a few minutes and he need to be bright eyed and bushy tailed. He brushed the coke baggy into his desk drawer. As ...</summary>
+
+  </entry>
 
   
   <entry>
@@ -39,30 +63,6 @@
   
 
   <summary>He hit the enter key with a final triumphant stroke. It couldn’t have been that easy, they hadn’t patched their web application firewalls. There was a new exploit available. The api exposed an insecure stored procedure in the embedded sql database allowing full admin access to the hardware meant to keep all of their internal systems safe. He took a swig of vodka and racked another line of cocai...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Snap</title>
-    <link href="https://umbradiaboli.github.io/posts/Snap/" rel="alternate" type="text/html" title="Snap" />
-    <published>2016-10-01T00:00:00+10:00</published>
-  
-    <updated>2016-10-01T00:00:00+10:00</updated>
-  
-    <id>https://umbradiaboli.github.io/posts/Snap/</id>
-    <content type="text/html" src="https://umbradiaboli.github.io/posts/Snap/" />
-    <author>
-      <name>Umbra Diaboli</name>
-    </author>
-
-  
-    
-    <category term="Chapter 1" />
-    
-  
-
-  <summary>He awoke the next morning, head pounding and mouth dry, computer still on. Finn had fallen asleep on the couch again, his monitors blaring and preventing REM sleep. The coke probably did that more so than the light. He went and got a drink of water, the days meetings would starts in a few minutes and he need to be bright eyed and bushy tailed. He brushed the coke baggy into his desk drawer. As ...</summary>
 
   </entry>
 
