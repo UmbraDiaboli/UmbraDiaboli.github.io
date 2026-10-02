@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://umbradiaboli.github.io/</id>
   <title>Sudo Shutdown</title>
   <subtitle>A saga about programming, automation and computer science.</subtitle>
-  <updated>2026-10-02T14:20:20+10:00</updated>
+  <updated>2026-10-02T14:29:37+10:00</updated>
   <author>
     <name>Umbra Diaboli</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://umbradiaboli.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://umbradiaboli.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="https://umbradiaboli.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 Umbra Diaboli </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Beginnings</title>
-    <link href="http://localhost:4000/posts/Beginnings/" rel="alternate" type="text/html" title="Beginnings" />
+    <link href="https://umbradiaboli.github.io/posts/Beginnings/" rel="alternate" type="text/html" title="Beginnings" />
     <published>2026-09-30T00:00:00+10:00</published>
   
     <updated>2026-09-30T00:00:00+10:00</updated>
   
-    <id>http://localhost:4000/posts/Beginnings/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Beginnings/" />
+    <id>https://umbradiaboli.github.io/posts/Beginnings/</id>
+    <content type="text/html" src="https://umbradiaboli.github.io/posts/Beginnings/" />
     <author>
       <name>Umbra Diaboli</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>Snap</title>
-    <link href="http://localhost:4000/posts/Snap/" rel="alternate" type="text/html" title="Snap" />
+    <link href="https://umbradiaboli.github.io/posts/Snap/" rel="alternate" type="text/html" title="Snap" />
     <published>2016-10-01T00:00:00+10:00</published>
   
     <updated>2016-10-01T00:00:00+10:00</updated>
   
-    <id>http://localhost:4000/posts/Snap/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Snap/" />
+    <id>https://umbradiaboli.github.io/posts/Snap/</id>
+    <content type="text/html" src="https://umbradiaboli.github.io/posts/Snap/" />
     <author>
       <name>Umbra Diaboli</name>
     </author>
