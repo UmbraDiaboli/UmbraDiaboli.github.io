@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Sudo Shutdown</title>
   <subtitle>A saga about programming, automation and computer science.</subtitle>
-  <updated>2026-10-03T13:24:36+10:00</updated>
+  <updated>2026-10-03T13:32:26+10:00</updated>
   <author>
     <name>Umbra Diaboli</name>
     <uri>http://localhost:4000/</uri>
@@ -33,6 +33,8 @@
     </author>
 
   
+    
+    <category term="Chapter 1" />
     
   
 
