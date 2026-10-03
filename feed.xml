@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://umbradiaboli.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>Sudo Shutdown</title>
   <subtitle>A saga about programming, automation and computer science.</subtitle>
-  <updated>2026-10-02T15:29:01+10:00</updated>
+  <updated>2026-10-03T12:11:04+10:00</updated>
   <author>
     <name>Umbra Diaboli</name>
-    <uri>https://umbradiaboli.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://umbradiaboli.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://umbradiaboli.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 Umbra Diaboli </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,38 @@
 
   
   <entry>
+    <title>Crackle</title>
+    <link href="http://localhost:4000/posts/Crackle/" rel="alternate" type="text/html" title="Crackle" />
+    <published>2026-10-03T00:00:00+10:00</published>
+  
+    <updated>2026-10-03T00:00:00+10:00</updated>
+  
+    <id>http://localhost:4000/posts/Crackle/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Crackle/" />
+    <author>
+      <name>Umbra Diaboli</name>
+    </author>
+
+  
+    
+    <category term="Chapter 1" />
+    
+  
+
+  <summary>It took him a second for his brain to click into gear. He began sharing his screen with a groan. The headache still pounding and the glass of water now empty. He would have to wing it. He opened the whiteboard app and began talking as he drew, as if it was all part of a rehearsed presentation. He’d done this before a million times but never so hung over, usually a few drinks deep in fact. As he...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Snap</title>
-    <link href="https://umbradiaboli.github.io/posts/Snap/" rel="alternate" type="text/html" title="Snap" />
+    <link href="http://localhost:4000/posts/Snap/" rel="alternate" type="text/html" title="Snap" />
     <published>2026-10-01T00:00:00+10:00</published>
   
     <updated>2026-10-01T00:00:00+10:00</updated>
   
-    <id>https://umbradiaboli.github.io/posts/Snap/</id>
-    <content type="text/html" src="https://umbradiaboli.github.io/posts/Snap/" />
+    <id>http://localhost:4000/posts/Snap/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Snap/" />
     <author>
       <name>Umbra Diaboli</name>
     </author>
@@ -45,13 +69,13 @@
   
   <entry>
     <title>Beginnings</title>
-    <link href="https://umbradiaboli.github.io/posts/Beginnings/" rel="alternate" type="text/html" title="Beginnings" />
+    <link href="http://localhost:4000/posts/Beginnings/" rel="alternate" type="text/html" title="Beginnings" />
     <published>2026-09-30T00:00:00+10:00</published>
   
     <updated>2026-09-30T00:00:00+10:00</updated>
   
-    <id>https://umbradiaboli.github.io/posts/Beginnings/</id>
-    <content type="text/html" src="https://umbradiaboli.github.io/posts/Beginnings/" />
+    <id>http://localhost:4000/posts/Beginnings/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Beginnings/" />
     <author>
       <name>Umbra Diaboli</name>
     </author>
