@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Sudo Shutdown</title>
   <subtitle>A saga about programming, automation and computer science.</subtitle>
-  <updated>2026-10-03T12:11:04+10:00</updated>
+  <updated>2026-10-03T13:10:27+10:00</updated>
   <author>
     <name>Umbra Diaboli</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,33 @@
 
   
   <entry>
-    <title>Crackle</title>
-    <link href="http://localhost:4000/posts/Crackle/" rel="alternate" type="text/html" title="Crackle" />
+    <title>Pop</title>
+    <link href="http://localhost:4000/posts/Pop/" rel="alternate" type="text/html" title="Pop" />
     <published>2026-10-03T00:00:00+10:00</published>
   
     <updated>2026-10-03T00:00:00+10:00</updated>
+  
+    <id>http://localhost:4000/posts/Pop/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Pop/" />
+    <author>
+      <name>Umbra Diaboli</name>
+    </author>
+
+  
+    
+  
+
+  <summary>He’d been right about that admin account. It was a domain admin. The guy had been walking around with a loaded gun and no safety and was too thick to comprehend the dangers of blowing off his own nuts. The system admin had had the username TJangles. Thanks TJangles, whoever you are. Finn tentatively hopped over to the database server using the credentials and had a look around. “Damnit.” The da...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Crackle</title>
+    <link href="http://localhost:4000/posts/Crackle/" rel="alternate" type="text/html" title="Crackle" />
+    <published>2026-10-02T00:00:00+10:00</published>
+  
+    <updated>2026-10-02T00:00:00+10:00</updated>
   
     <id>http://localhost:4000/posts/Crackle/</id>
     <content type="text/html" src="http://localhost:4000/posts/Crackle/" />
