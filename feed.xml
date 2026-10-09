@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Sudo Shutdown</title>
   <subtitle>A saga about programming, automation and computer science.</subtitle>
-  <updated>2026-10-03T13:37:06+10:00</updated>
+  <updated>2026-10-10T08:17:10+11:00</updated>
   <author>
     <name>Umbra Diaboli</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Hash</title>
+    <link href="http://localhost:4000/posts/Hash/" rel="alternate" type="text/html" title="Hash" />
+    <published>2026-10-10T00:00:00+11:00</published>
+  
+    <updated>2026-10-10T00:00:00+11:00</updated>
+  
+    <id>http://localhost:4000/posts/Hash/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Hash/" />
+    <author>
+      <name>Umbra Diaboli</name>
+    </author>
+
+  
+    
+    <category term="Chapter 1" />
+    
+  
+
+  <summary>Finn would need to figure out who’s who in the zoo to figure out what was worth reading and what was just passive aggressive follow up emails from people who wasted their university education becoming something called a communications manager. Apparently getting pregnant in your 20s had consequences, and you could hear every lost opportunity and life mistake in the curt and well placed punctuat...</summary>
+
+  </entry>
 
   
   <entry>
